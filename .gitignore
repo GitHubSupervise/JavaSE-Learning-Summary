@@ -18,5 +18,30 @@
 *.tar.gz
 *.rar
 
+# Idea
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+out/
+
+# Others
+bin/
+.myeclipse
+.hprof
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+
